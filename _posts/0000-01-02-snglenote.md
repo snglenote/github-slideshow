@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my first slide!"
 ---
-Hows it going
+birds aren't real
 Use the left arrow to go back!
